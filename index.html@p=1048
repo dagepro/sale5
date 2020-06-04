@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-        <script>
+	    <script>
         (function (exports, d) {
             var _isReady = false,
                 _event,
@@ -53,9 +53,9 @@
 		<script type="text/javascript">var theChampDefaultLang = 'it_IT', theChampCloseIconPath = 'https://www.alberghi-in-italia.it/wp-content/plugins/super-socializer/images/close.png';</script>
 		<script> var theChampSiteUrl = 'https://www.alberghi-in-italia.it', theChampVerified = 0, theChampEmailPopup = 0; </script>
 			<script> var theChampFBKey = '', theChampFBLang = 'it_IT', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
-						<script type="text/javascript">var theChampFBCommentUrl = 'https://www.alberghi-in-italia.it/'; var theChampFBCommentColor = ''; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = ''; var theChampCommentingTabs = "wordpress,facebook,disqus", theChampGpCommentsUrl = 'https://www.alberghi-in-italia.it/', theChampDisqusShortname = '', theChampScEnabledTabs = 'wordpress,fb', theChampScLabel = 'Leave a reply', theChampScTabLabels = {"wordpress":"Default Comments (0)","fb":"Facebook Comments","disqus":"Disqus Comments"}, theChampGpCommentsWidth = 0, theChampCommentingId = 'respond'</script>
+						<script type="text/javascript">var theChampFBCommentUrl = 'https://www.alberghi-in-italia.it/trentino-alto-adige/'; var theChampFBCommentColor = ''; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = ''; var theChampCommentingTabs = "wordpress,facebook,disqus", theChampGpCommentsUrl = 'https://www.alberghi-in-italia.it/trentino-alto-adige/', theChampDisqusShortname = '', theChampScEnabledTabs = 'wordpress,fb', theChampScLabel = 'Leave a reply', theChampScTabLabels = {"wordpress":"Default Comments (0)","fb":"Facebook Comments","disqus":"Disqus Comments"}, theChampGpCommentsWidth = 0, theChampCommentingId = 'respond'</script>
 						<script> var theChampSharingAjaxUrl = 'https://www.alberghi-in-italia.it/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'https://www.facebook.com/dialog/send?app_id=595489497242932&display=popup&link=%encoded_post_url%&redirect_uri=%encoded_post_url%',heateorSsWhatsappShareAPI = 'web', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'https://www.alberghi-in-italia.it/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
-		var heateorSsHorSharingShortUrl = "https://www.alberghi-in-italia.it/";var heateorSsVerticalSharingShortUrl = "https://www.alberghi-in-italia.it/";		</script>
+		var heateorSsHorSharingShortUrl = "https://www.alberghi-in-italia.it/trentino-alto-adige/";var heateorSsVerticalSharingShortUrl = "https://www.alberghi-in-italia.it/trentino-alto-adige/";		</script>
 			<style type="text/css">.the_champ_horizontal_sharing .theChampSharing{
 					color: #fff;
 				border-width: 0px;
@@ -83,21 +83,21 @@
 	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}</style>
 	
 	<!-- This site is optimized with the Yoast SEO plugin v14.2 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Alberghi in Italia - Scegli il Tuo Hotel in Italia</title>
+	<title>Alberghi Trentino Alto Adige -</title>
+	<meta name="description" content="Alberghi e informazioni utili per visitare il Trentino Alto Adige. Prenota il tuo hotel in Trentino Alto Adige senza costi di commissione." />
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<link rel="canonical" href="https://www.alberghi-in-italia.it/" />
+	<link rel="canonical" href="https://www.alberghi-in-italia.it/trentino-alto-adige/" />
 	<meta property="og:locale" content="it_IT" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Alberghi in Italia - Scegli il Tuo Hotel in Italia" />
-	<meta property="og:description" content="MARE Rimini | Bibione | RiccioneLignano S. | Taormina | CapriCaorle | Gallipoli | CattolicaIschia | Senigallia | Alassio MONTAGNA Cortina d’Ampezzo | LivignoCourmayeur | Bormio | ApricaSestriere | Molveno | CanazeiMadonna di Campiglio CITTA D’ARTE Roma | Firenze | Venezia | Milano | Napoli | Verona Palermo | Torino | Catania Perugia | Bologna&hellip; Leggi tutto" />
-	<meta property="og:url" content="https://www.alberghi-in-italia.it/" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Alberghi Trentino Alto Adige -" />
+	<meta property="og:description" content="Alberghi e informazioni utili per visitare il Trentino Alto Adige. Prenota il tuo hotel in Trentino Alto Adige senza costi di commissione." />
+	<meta property="og:url" content="https://www.alberghi-in-italia.it/trentino-alto-adige/" />
 	<meta property="og:site_name" content="Alberghi in Italia" />
 	<meta property="article:publisher" content="https://www.facebook.com/alberghiinitalia" />
-	<meta property="article:modified_time" content="2020-05-26T14:16:16+00:00" />
-	<meta property="og:image" content="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-mare5.png" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.alberghi-in-italia.it/#organization","name":"Alberghi In Italia","url":"https://www.alberghi-in-italia.it/","sameAs":["https://www.facebook.com/alberghiinitalia","https://twitter.com/alberghinitalia"],"logo":{"@type":"ImageObject","@id":"https://www.alberghi-in-italia.it/#logo","inLanguage":"it-IT","url":"https://www.alberghi-in-italia.it/wp-content/uploads/2015/01/alberghi-in-italia.jpg","width":234,"height":53,"caption":"Alberghi In Italia"},"image":{"@id":"https://www.alberghi-in-italia.it/#logo"}},{"@type":"WebSite","@id":"https://www.alberghi-in-italia.it/#website","url":"https://www.alberghi-in-italia.it/","name":"Alberghi in Italia","description":"Scegli il Tuo Hotel","publisher":{"@id":"https://www.alberghi-in-italia.it/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.alberghi-in-italia.it/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"it-IT"},{"@type":"ImageObject","@id":"https://www.alberghi-in-italia.it/#primaryimage","inLanguage":"it-IT","url":"https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-mare5.png","width":219,"height":219},{"@type":"WebPage","@id":"https://www.alberghi-in-italia.it/#webpage","url":"https://www.alberghi-in-italia.it/","name":"Alberghi in Italia - Scegli il Tuo Hotel in Italia","isPartOf":{"@id":"https://www.alberghi-in-italia.it/#website"},"about":{"@id":"https://www.alberghi-in-italia.it/#organization"},"primaryImageOfPage":{"@id":"https://www.alberghi-in-italia.it/#primaryimage"},"datePublished":"2019-06-18T13:03:25+00:00","dateModified":"2020-05-26T14:16:16+00:00","inLanguage":"it-IT","potentialAction":[{"@type":"ReadAction","target":["https://www.alberghi-in-italia.it/"]}]}]}</script>
+	<meta property="article:modified_time" content="2019-07-11T09:00:58+00:00" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.alberghi-in-italia.it/#organization","name":"Alberghi In Italia","url":"https://www.alberghi-in-italia.it/","sameAs":["https://www.facebook.com/alberghiinitalia","https://twitter.com/alberghinitalia"],"logo":{"@type":"ImageObject","@id":"https://www.alberghi-in-italia.it/#logo","inLanguage":"it-IT","url":"https://www.alberghi-in-italia.it/wp-content/uploads/2015/01/alberghi-in-italia.jpg","width":234,"height":53,"caption":"Alberghi In Italia"},"image":{"@id":"https://www.alberghi-in-italia.it/#logo"}},{"@type":"WebSite","@id":"https://www.alberghi-in-italia.it/#website","url":"https://www.alberghi-in-italia.it/","name":"Alberghi in Italia","description":"Scegli il Tuo Hotel","publisher":{"@id":"https://www.alberghi-in-italia.it/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.alberghi-in-italia.it/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"it-IT"},{"@type":"WebPage","@id":"https://www.alberghi-in-italia.it/trentino-alto-adige/#webpage","url":"https://www.alberghi-in-italia.it/trentino-alto-adige/","name":"Alberghi Trentino Alto Adige -","isPartOf":{"@id":"https://www.alberghi-in-italia.it/#website"},"datePublished":"2012-10-05T11:52:13+00:00","dateModified":"2019-07-11T09:00:58+00:00","description":"Alberghi e informazioni utili per visitare il Trentino Alto Adige. Prenota il tuo hotel in Trentino Alto Adige senza costi di commissione.","inLanguage":"it-IT","potentialAction":[{"@type":"ReadAction","target":["https://www.alberghi-in-italia.it/trentino-alto-adige/"]}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -125,8 +125,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='companion-bundle-css'   data-href='https://www.alberghi-in-italia.it/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/css/companion.bundle.min.css?ver=1.6.110' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://www.alberghi-in-italia.it/wp-includes/css/dist/block-library/style.min.css?ver=5.3.1' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.alberghi-in-italia.it/wp-includes/css/dist/block-library/style.min.css?ver=5.3.1' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='https://www.alberghi-in-italia.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
 <link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.alberghi-in-italia.it/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.3.1' type='text/css' media='all' />
 <link rel='stylesheet' id='ccf-jquery-ui-css'  href='//ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=5.3.1' type='text/css' media='all' />
@@ -177,7 +176,7 @@ img.logo.dark, img.custom-logo{width:auto;max-height:70px !important;}
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/www.alberghi-in-italia.it\/wp-admin\/admin-ajax.php","nonce":"182369c4c8","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2147483647","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+var cnArgs = {"ajaxUrl":"https:\/\/www.alberghi-in-italia.it\/wp-admin\/admin-ajax.php","nonce":"866f059420","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2147483647","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2'></script>
@@ -215,37 +214,20 @@ var ac_param = {"ajaxurl":"https:\/\/www.alberghi-in-italia.it\/wp-admin\/admin-
 </script>
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/wp-advanced-search/js/autocompleteSearch-min.js?ver=5.3.1'></script>
 <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var t_jp = {"ajaxurl":"https:\/\/www.alberghi-in-italia.it\/wp-admin\/admin-ajax.php","plugin_url":"\/\/www.alberghi-in-italia.it\/wp-content\/plugins\/transposh-translation-filter-for-wordpress","lang":"it","olang":"it","prefix":"tr_","preferred":["g","b","y","a","u"],"engines":{"b":1,"g":1,"y":1,"u":1}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.alberghi-in-italia.it/wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposh.js?ver=1.0.6'></script>
 <link rel='https://api.w.org/' href='https://www.alberghi-in-italia.it/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.alberghi-in-italia.it/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.alberghi-in-italia.it/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.3.1" />
-<link rel='shortlink' href='https://www.alberghi-in-italia.it/' />
-<link rel="alternate" type="application/json+oembed" href="https://www.alberghi-in-italia.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.alberghi-in-italia.it%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.alberghi-in-italia.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.alberghi-in-italia.it%2F&#038;format=xml" />
-<link rel="stylesheet" href="https://www.alberghi-in-italia.it/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.0" type="text/css" media="screen" />    <style data-name="header-overlap-with">
-        @media screen and (min-width: 768px) {
-            .mesmerize-front-page.overlap-first-section:not(.mesmerize-front-page-with-slider) .header-homepage {
-                padding-bottom: 35px;
-            }
-
-            .mesmerize-front-page.overlap-first-section:not(.mesmerize-front-page-with-slider) .page-content div[data-overlap]:first-of-type > div:not([class*="section-separator"]) {
-                margin-top: -35px;
-            }
-        }
-    </style>
-    <link rel="alternate" hreflang="de" href="/de/"/><link rel="alternate" hreflang="en" href="/en/"/><link rel="alternate" hreflang="es" href="/es/"/><link rel="alternate" hreflang="fr" href="/fr/"/><link rel="alternate" hreflang="pt" href="/pt/"/><link rel="alternate" hreflang="ru" href="/ru/"/><link rel="alternate" hreflang="zh" href="/zh/"/>
-    
-    <style type="text/css" data-name="custom-mobile-image-position">
-        @media screen and (max-width: 767px) {
-            /*Custom mobile position*/
-        .header-homepage {
-            background-position: 50% 0px;
-        }
-        }
-    </style>
-
-    
-        <script type="text/javascript" data-name="async-styles">
+<link rel='shortlink' href='https://www.alberghi-in-italia.it/?p=1048' />
+<link rel="alternate" type="application/json+oembed" href="https://www.alberghi-in-italia.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.alberghi-in-italia.it%2Ftrentino-alto-adige%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.alberghi-in-italia.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.alberghi-in-italia.it%2Ftrentino-alto-adige%2F&#038;format=xml" />
+<link rel="stylesheet" href="https://www.alberghi-in-italia.it/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.0" type="text/css" media="screen" /><link rel="alternate" hreflang="de" href="/de/trentino-alto-adige/"/><link rel="alternate" hreflang="en" href="/en/trentino-alto-adige/"/><link rel="alternate" hreflang="es" href="/es/trentino-alto-adige/"/><link rel="alternate" hreflang="fr" href="/fr/trentino-alto-adige/"/><link rel="alternate" hreflang="pt" href="/pt/trentino-alto-adige/"/><link rel="alternate" hreflang="ru" href="/ru/trentino-alto-adige/"/><link rel="alternate" hreflang="zh" href="/zh/trentino-alto-adige/"/>    <script type="text/javascript" data-name="async-styles">
         (function () {
             var links = document.querySelectorAll('link[data-href]');
             for (var i = 0; i < links.length; i++) {
@@ -323,11 +305,11 @@ font-weight: bold
     </style>
     </head>
 
-<body data-rsssl=1 class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-31043 wp-custom-logo cookies-not-set overlap-first-section mesmerize-front-page mesmerize-content-no-padding ">
+<body data-rsssl=1 class="page-template page-template-page-templates page-template-page-with-right-sidebar page-template-page-templatespage-with-right-sidebar-php page page-id-1048 page-parent wp-custom-logo cookies-not-set overlap-first-section mesmerize-inner-page">
 
 
-<div id="page-top" class="header-top homepage">
-    <aside id="transposh-7" class="widget-odd widget-last widget-first widget-1 widget widget_transposh"><span class="no_translate"><select name="lang" onchange="document.location.href=this.options[this.selectedIndex].value;"><option value="/" selected="selected">Italiano</option><option value="/de/">Deutsch</option><option value="/en/">English</option><option value="/es/">Español</option><option value="/fr/">Français</option><option value="/pt/">Português</option><option value="/ru/">Русский</option><option value="/zh/">中文(简体)</option></select><br/></span><div id="tr_credit"></div></aside>            <div class="header-top-bar no-padding">
+<!-- page-with-right-sidebar.php --><div  id="page-top" class="header-top">
+	        <div class="header-top-bar no-padding">
             <div class="gridContainer">
                 <div class="header-top-bar-inner row middle-xs start-xs ">
                         <div class="header-top-bar-area  col-xs area-left">
@@ -359,7 +341,7 @@ font-weight: bold
                     </div>
             </div>
         </div>
-            <div class="navigation-bar logo-above-menu boxed bordered homepage"  data-sticky='0'  data-sticky-mobile='1'  data-sticky-to='top' >
+        	<aside id="transposh-7" class="widget-odd widget-last widget-first widget-1 widget widget_transposh"><span class="no_translate"><select name="lang" onchange="document.location.href=this.options[this.selectedIndex].value;"><option value="/trentino-alto-adige/" selected="selected">Italiano</option><option value="/de/trentino-alto-adige/">Deutsch</option><option value="/en/trentino-alto-adige/">English</option><option value="/es/trentino-alto-adige/">Español</option><option value="/fr/trentino-alto-adige/">Français</option><option value="/pt/trentino-alto-adige/">Português</option><option value="/ru/trentino-alto-adige/">Русский</option><option value="/zh/trentino-alto-adige/">中文(简体)</option></select><br/></span><div id="tr_credit"></div></aside>	<div class="navigation-bar logo-above-menu boxed bordered"  data-sticky='0'  data-sticky-mobile='1'  data-sticky-to='top' >
     <div class="navigation-wrapper gridContainer">
         <div class="row basis-auto between-xs">
 	        <div class="logo_col col-xs col-sm-12 center-sm">
@@ -369,7 +351,7 @@ font-weight: bold
 <li id="menu-item-16226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16226"><a title="Alberghi in Piemonte" href="https://www.alberghi-in-italia.it/piemonte/">Piemonte</a></li>
 <li id="menu-item-16227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16227"><a title="Alberghi in Liguria" href="https://www.alberghi-in-italia.it/liguria/">Liguria</a></li>
 <li id="menu-item-16228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16228"><a title="Alberghi in Lombardia" href="https://www.alberghi-in-italia.it/lombardia/">Lombardia</a></li>
-<li id="menu-item-16229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16229"><a title="AlberghAlberghi in Trentino Alto Adige i in Trentino Alto Adige " href="https://www.alberghi-in-italia.it/trentino-alto-adige/">Trentino</a></li>
+<li id="menu-item-16229" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1048 current_page_item menu-item-16229"><a title="AlberghAlberghi in Trentino Alto Adige i in Trentino Alto Adige " href="https://www.alberghi-in-italia.it/trentino-alto-adige/" aria-current="page">Trentino</a></li>
 <li id="menu-item-16230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16230"><a title="Alberghi in Veneto" href="https://www.alberghi-in-italia.it/veneto/">Veneto</a></li>
 <li id="menu-item-16231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16231"><a title="Alberghi in Friuli Venezia Giulia " href="https://www.alberghi-in-italia.it/friuli-venezia-giulia/">Friuli</a></li>
 <li id="menu-item-16232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16232"><a title="Alberghi in Emilia Romagna " href="https://www.alberghi-in-italia.it/emilia-romagna/">Emilia Romagna</a></li>
@@ -398,7 +380,7 @@ font-weight: bold
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16226"><a title="Alberghi in Piemonte" href="https://www.alberghi-in-italia.it/piemonte/">Piemonte</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16227"><a title="Alberghi in Liguria" href="https://www.alberghi-in-italia.it/liguria/">Liguria</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16228"><a title="Alberghi in Lombardia" href="https://www.alberghi-in-italia.it/lombardia/">Lombardia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16229"><a title="AlberghAlberghi in Trentino Alto Adige i in Trentino Alto Adige " href="https://www.alberghi-in-italia.it/trentino-alto-adige/">Trentino</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1048 current_page_item menu-item-16229"><a title="AlberghAlberghi in Trentino Alto Adige i in Trentino Alto Adige " href="https://www.alberghi-in-italia.it/trentino-alto-adige/" aria-current="page">Trentino</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16230"><a title="Alberghi in Veneto" href="https://www.alberghi-in-italia.it/veneto/">Veneto</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16231"><a title="Alberghi in Friuli Venezia Giulia " href="https://www.alberghi-in-italia.it/friuli-venezia-giulia/">Friuli</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16232"><a title="Alberghi in Emilia Romagna " href="https://www.alberghi-in-italia.it/emilia-romagna/">Emilia Romagna</a></li>
@@ -420,38 +402,125 @@ font-weight: bold
 	    </div>
     </div>
 </div>
-    <aside id="text-160" class="widget-odd widget-last widget-first widget-1 widget widget_text">			<div class="textwidget"><p><iframe src="https://www.booking.com/general.html?aid=334358&#038;tmpl=searchbox&#038;label=example" width="100%" frameborder="0" scrolling="no" name="sbox_iframe" style="border-bottom: 0px double; padding-bottom: 10px;"></iframe></p>
 </div>
-		</aside></div>
-
 
 <div id="page" class="site">
-
-            <div class="header-wrapper">
-            <div  class='header-homepage  color-overlay' style='; background-image:url(&quot;https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/top2.png&quot;); background-color:#6a73da'>
-                                                
-    <div class="header-description gridContainer content-on-center">
-        <div class="row header-description-row middle-sm">
-    <div class="header-content header-content-centered col-md col-xs-12">
-        <div class="align-holder center">
-            <h1 class="hero-title">Scegli il Tuo Hotel in Italia</h1><div data-dynamic-mod-container class="header-buttons-wrapper"><a class="button big color1 round" target="_self" href="https://www.alberghi-in-italia.it/proponi-la-tua-struttura" >Proponi la tua struttura</a><a class="button big color-white round outline" target="_self" href="https://www.alberghi-in-italia.it/contatti" >Contattaci</a></div>        </div>
+    <div class="header-wrapper">
+        <div  class='header  color-overlay  custom-mobile-image' style='; background-image:url(&quot;https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/top2.png&quot;); background-color:#6a73da' data-parallax-depth='20'>
+            								    <div class="inner-header-description gridContainer">
+        <div class="row header-description-row">
+    <div class="col-xs col-xs-12">
+        <h1 class="hero-title">
+            Alberghi e Hotel in Trentino Alto Adige        </h1>
+                    <p class="header-subtitle">Scegli il Tuo Hotel</p>
+            </div>
+        </div>
     </div>
-</div>
-    </div>
-    
         <script>
         window.mesmerizeSetHeaderTopSpacing();
     </script>
-                    
-                                            </div>
-        </div>
-        
-    <div class="page-content">
-        <div class="content">
-            <div class='dd_post_share'><div class='dd_buttons'><div class='dd_button'><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.alberghi-in-italia.it/" data-count="horizontal" data-text="Front Page" data-via="alberghinitalia" ></a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div><div class='dd_button'><iframe src='https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.alberghi-in-italia.it%2F&amp;locale=it_IT&amp;layout=button_count&amp;action=like&amp;width=92&amp;height=20&amp;colorscheme=light' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:92px; height:20px;' allowTransparency='true'></iframe></div><div class='dd_button'><script type='text/javascript' src='https://apis.google.com/js/plusone.js'></script><g:plusone size='medium' href='https://www.alberghi-in-italia.it/'></g:plusone></div><div class='dd_button'><script type='text/javascript' src='https://platform.linkedin.com/in.js'></script><div class='dd-linkedin-share'><div data-url='https://www.alberghi-in-italia.it/' data-counter='right'></div></div></div></div><div style='clear:both'></div></div><div style='clear:both'></div><div class="overlappable-4 content-section content-section-spacing" id="overlappable-4" style="background-color: #ffffff;" data-id="overlappable-4" data-overlap="true" data-category="overlappable" data-export-id="overlappable-4" data-label="Overlappable" ><div class="gridContainer" > <div class="row spaced-cols text-center" data-type="row" ><div class="col-xs-12 col-sm-4 col-padding" >  <div data-type="column" > <img title="cropped-mare5.png" class="custom-image" alt="" src="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-mare5.png" /><h5 >MARE</h5> <p ></p><h4 ><a href="https://www.alberghi-in-italia.it/emilia-romagna/rimini" >Rimini</a>  |  <a href="https://www.alberghi-in-italia.it/veneto/venezia/bibione" >Bibione</a>  |  <a href="https://www.alberghi-in-italia.it/emilia-romagna/rimini/riccione" >Riccione</a><br ><a href="https://www.alberghi-in-italia.it/friuli-venezia-giulia/udine/lignano-sabbiadoro" >Lignano S.</a>  |  <a href="https://www.alberghi-in-italia.it/sicilia/messina/taormina" >Taormina</a>  |  <a href="https://www.alberghi-in-italia.it/campania/napoli/capri" >Capri</a><br ><a href="https://www.alberghi-in-italia.it/veneto/venezia/caorle" >Caorle</a>  |  <a href="https://www.alberghi-in-italia.it/puglia/lecce/gallipoli" >Gallipoli</a>  |  <a href="https://www.alberghi-in-italia.it/emilia-romagna/rimini/cattolica" >Cattolica</a><br ><a href="https://www.alberghi-in-italia.it/campania/napoli/ischia" >Ischia</a>  |  <a href="https://www.alberghi-in-italia.it/marche/ancona/senigallia" >Senigallia</a>  |  <a href="https://www.alberghi-in-italia.it/liguria/savona/alassio" >Alassio</a></h4></div> </div> <div class="col-xs-12 col-sm-4 col-padding" >  <div data-type="column" ><img title="cropped-montagna1.png" class="custom-image" alt="" src="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-montagna1.png" /><h5 >MONTAGNA</h5> <p ></p><h4 ><a href="https://www.alberghi-in-italia.it/veneto/belluno/cortina-dampezzo" >Cortina d’Ampezzo</a>  |  <a href="https://www.alberghi-in-italia.it/lombardia/sondrio/livigno" >Livigno</a><br ><strong ><a href="https://www.alberghi-in-italia.it/valle-daosta/courmayeur" >Courmayeur</a>  |  <a href="https://www.alberghi-in-italia.it/lombardia/sondrio/bormio" >Bormio</a>  |  <a href="https://www.alberghi-in-italia.it/lombardia/sondrio/aprica" >Aprica</a></strong><br ><strong ><a href="https://www.alberghi-in-italia.it/piemonte/torino/sestriere" >Sestriere</a>  |  <a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/molveno" >Molveno</a>  |  <a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/canazei" >Canazei</a></strong><br ><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/madonna-di-campiglio" ><strong >Madonna di Campiglio</strong></a></h4></div> </div> <div class="col-xs-12 col-sm-4 col-padding" >  <div data-type="column" ><img title="cropped-citta2.png" class="custom-image" alt="" src="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-citta2.png" /><h5 >CITTA D’ARTE</h5> <p ></p><h4 ><a href="https://www.alberghi-in-italia.it/lazio/roma" >Roma</a>  |  <a href="https://www.alberghi-in-italia.it/toscana/firenze" >Firenze</a>  |  <a href="https://www.alberghi-in-italia.it/veneto/venezia" >Venezia</a> | <a href="https://www.alberghi-in-italia.it/lombardia/milano" >Milano</a>  |  <a href="https://www.alberghi-in-italia.it/campania/napoli" >Napoli</a>  |  <a href="https://www.alberghi-in-italia.it/veneto/verona" >Verona</a> <a href="https://www.alberghi-in-italia.it/sicilia/palermo" >Palermo</a>  |  <a href="https://www.alberghi-in-italia.it/piemonte/torino" >Torino</a>  |  <a href="https://www.alberghi-in-italia.it/sicilia/catania" >Catania</a> <a href="https://www.alberghi-in-italia.it/umbria/perugia" >Perugia</a>  |  <a href="https://www.alberghi-in-italia.it/emilia-romagna/bologna" >Bologna</a>
-<br ><a href="https://www.alberghi-in-italia.it/puglia/lecce" >Lecce</a></h4></div> </div></div> </div></div><div class="about-1 content-section" id="about-1" style="background-color: #f5fafd;" data-id="about-1" data-category="about" data-export-id="about-1" data-label="About" ><div class="gridContainer" > <div class="row text-center" ><div class="section-title-col" data-type="column" > <h5 >HOTEL IN ITALIA</h5> <h2 >Paese unico al mondo <span style="font-weight: 700; font-family: Playfair Display,sans-serif; font-style: italic;" href="#" >ricco di storia, arte e cultura…</span> </h2> <p class="lead" >Venti regioni con altrettanti dialetti, migliaia di piatti tipici e altrettante tradizioni diverse.<br >Da nord a sud è possibile visitare città d’arte, montagne, mari, laghi e colline,<br >in un lungo viaggio che può durare una vita!</p></div> </div> <div class="row" > <div class="button-holder space-bottom space-bottom-small" data-type="column" > </div> <div class="col-xs bottom-xs flexbox image-group-bottom-3-img space-bottom-xs center-xs" > <img title="cropped-fotos_que_inspiran_un_viaje_a_italia_101895009_1000x667.jpg" class="left-img shadow-large-black" alt="" src="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-fotos_que_inspiran_un_viaje_a_italia_101895009_1000x667.jpg" data-size="500x300" /> <img title="cropped-Italia_Roma_shutterstock_529965313_Catarina-Belova_Shutterstock.jpg" class="center-img shadow-large-black" alt="" src="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-Italia_Roma_shutterstock_529965313_Catarina-Belova_Shutterstock.jpg" data-size="500x300" /> <img title="cropped-cropped-wallpaper-italy-rome-landscape.jpg" class="right-img shadow-large-black" alt="" src="https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/cropped-cropped-wallpaper-italy-rome-landscape.jpg" data-size="500x300" /></div> </div></div> </div><div class="features-12-card-bordered content-section content-section-spacing " id="features-3" style="background-color: #ffffff;" data-id="features-12-card-bordered" data-category="features" data-export-id="features-12-card-bordered" data-label="Features" ><div class="gridContainer" > <div class="row text-center" ><div class="section-title-col" data-type="column" > <h2 >Alberghi-in-italia.it</h2> <p class="lead" > offre una guida alle località meno conosciute della nostra splendida penisola, con tanti consigli per trascorrere al meglio il proprio soggiorno che sia per lavoro, vacanza o per un breve week-end. </p></div> </div> <div class="row spaced-cols" data-type="row" > <div class="col-sm-6" > <div class="card row-card bordered y-move" > <div class="row" > <div class="col-sm-fit icon-column" > <i class="fa icon color2 fa-handshake-o bordered round" ></i> </div> <div class="col-sm" data-type="column" > <h5 class="color2" >FIDATI</h5> <p >Dal 2003 Alberghi-in-Italia.it offre un’ampia scelta di hotel, bed and breakfast, e agriturismi in tutta Italia accuratamente selezionati e in più l’ampia gamma di strutture di un partner d’eccellenza.</p></div> </div></div> </div> <div class="col-sm-6" > <div class="card row-card bordered y-move" > <div class="row" > <div class="col-sm-fit icon-column" > <i class="fa icon color2 fa-eur bordered round" ></i> </div> <div class="col-sm" data-type="column" > <h5 class="color2" >RISPARMIA</h5> <p >Prenota senza alcun costo di commissione.<br >Alberghi-in-Italia ti offre una selezione di hotel in Italia con link diretto per prenotare senza spese aggiuntive e in pochissimo tempo.</p></div> </div></div> </div> <div class="col-sm-6" > <div class="card row-card bordered y-move" > <div class="row" > <div class="col-sm-fit icon-column" > <i class="fa icon color2 fa-heart-o bordered round" ></i> </div> <div class="col-sm" data-type="column" > <h5 class="color2" >SCEGLI</h5> <p >Scegli Tantissimi hotel in oltre 1000 località italiane per soggiorni adatti ad ogni esigenza. Informati sulla località che vuoi visitare e scopri i dettagli degli alberghi nelle schede hotel. </p></div> </div></div> </div> <div class="col-sm-6" > <div class="card row-card bordered y-move" > <div class="row" > <div class="col-sm-fit icon-column" > <i class="fa icon color2 fa-send-o bordered round" ></i> </div> <div class="col-sm" data-type="column" > <h5 class="color2" >VIAGGIA</h5> <p >Nel nostro portale un valido aiuto per individuare l’hotel o la struttura ricettiva più adatta alle proprie esigenze.<br ><br >Buon viaggio!</p></div> </div></div> </div></div> </div></div><div class="contact-1 content-section content-section-spacing white-text" id="contact-1" style='background-color: rgb(245, 250, 253); background-image: url("https://www.alberghi-in-italia.it/wp-content/uploads/2019/07/47205990-hotel-images.jpg"); background-size: cover; background-position: center top;' data-id="contact--1" data-parallax-depth="20" data-category="contact" data-export-id="contact-1" data-label="Contact" ><div class="gridContainer" > <div class="row text-center" ><div class="section-title-col" data-type="column" > <h2 >Proponi la tua struttura</h2> <p class="lead" >Se sei il proprietario di un albergo, B&amp;B o di un residence, richiedici maggiori informazioni per inserire la tua struttura sul nostro portale.</p></div> </div> <div class="row text-center" > <div class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper inline-info" > <div class="card large-padding" > <div data-content-shortcode='mesmerize_contact_form shortcode="wpforms id=&amp;amp;quot;31087&amp;amp;quot;"' data-editable="true" ><div class="wpforms-container wpforms-container-full" id="wpforms-31087"><form id="wpforms-form-31087" class="wpforms-validate wpforms-form" data-formid="31087" method="post" enctype="multipart/form-data" action="/"><noscript class="wpforms-error-noscript">Abilita JavaScript nel browser per completare questo modulo.</noscript><div class="wpforms-field-container"><div id="wpforms-31087-field_3-container" class="wpforms-field wpforms-field-text" data-field-id="3"><label class="wpforms-field-label" for="wpforms-31087-field_3">Nome Struttura <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-31087-field_3" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][3]" required></div><div id="wpforms-31087-field_4-container" class="wpforms-field wpforms-field-text" data-field-id="4"><label class="wpforms-field-label" for="wpforms-31087-field_4">Responsabile</label><input type="text" id="wpforms-31087-field_4" class="wpforms-field-medium" name="wpforms[fields][4]" ></div><div id="wpforms-31087-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-31087-field_1">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-31087-field_1" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][1]" required></div><div id="wpforms-31087-field_5-container" class="wpforms-field wpforms-field-text" data-field-id="5"><label class="wpforms-field-label" for="wpforms-31087-field_5">Località</label><input type="text" id="wpforms-31087-field_5" class="wpforms-field-medium" name="wpforms[fields][5]" ></div><div id="wpforms-31087-field_6-container" class="wpforms-field wpforms-field-select" data-field-id="6"><label class="wpforms-field-label" for="wpforms-31087-field_6">Categoria</label><select id="wpforms-31087-field_6" class="wpforms-field-medium" name="wpforms[fields][6]"><option value="--" >--</option><option value="Albergo 5 stelle" >Albergo 5 stelle</option><option value="Albergo 4 stelle" >Albergo 4 stelle</option><option value="Albergo 3 stelle" >Albergo 3 stelle</option><option value="Albergo 2 stelle" >Albergo 2 stelle</option><option value="Albergo 1 stelle" >Albergo 1 stelle</option><option value="Residenza turistica" >Residenza turistica</option><option value="Bed and Breakfast" >Bed and Breakfast</option></select></div><div id="wpforms-31087-field_7-container" class="wpforms-field wpforms-field-number" data-field-id="7"><label class="wpforms-field-label" for="wpforms-31087-field_7">Telefono</label><input type="number" pattern="\d*" id="wpforms-31087-field_7" class="wpforms-field-medium" name="wpforms[fields][7]" ></div><div id="wpforms-31087-field_8-container" class="wpforms-field wpforms-field-number" data-field-id="8"><label class="wpforms-field-label" for="wpforms-31087-field_8">Fax</label><input type="number" pattern="\d*" id="wpforms-31087-field_8" class="wpforms-field-medium" name="wpforms[fields][8]" ></div><div id="wpforms-31087-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-31087-field_2">Note <span class="wpforms-required-label">*</span></label><textarea id="wpforms-31087-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" required></textarea></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-31087-field-hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-31087-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="31087"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="31043"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-31087" value="wpforms-submit" aria-live="assertive" data-alt-text="Invio in corso..." data-submit-text="Invia">Invia</button></div></form></div>  <!-- .wpforms-container --></div></div> </div></div> </div></div><script type="text/javascript" src="https://www.alberghi-in-italia.it/wp-content/plugins/digg-digg//js/diggdigg-linkedin.js?ver=5.3.0"></script>        </div>
-    </div>
+                        </div>
+    </div>    <div class="page-content">
+        <div class="gridContainer">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-md-8">
+                    <div class='dd_post_share'><div class='dd_buttons'><div class='dd_button'><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.alberghi-in-italia.it/trentino-alto-adige/" data-count="horizontal" data-text="Alberghi e Hotel in Trentino Alto Adige" data-via="alberghinitalia" ></a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div><div class='dd_button'><iframe src='https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.alberghi-in-italia.it%2Ftrentino-alto-adige%2F&amp;locale=it_IT&amp;layout=button_count&amp;action=like&amp;width=92&amp;height=20&amp;colorscheme=light' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:92px; height:20px;' allowTransparency='true'></iframe></div><div class='dd_button'><script type='text/javascript' src='https://apis.google.com/js/plusone.js'></script><g:plusone size='medium' href='https://www.alberghi-in-italia.it/trentino-alto-adige/'></g:plusone></div><div class='dd_button'><script type='text/javascript' src='https://platform.linkedin.com/in.js'></script><div class='dd-linkedin-share'><div data-url='https://www.alberghi-in-italia.it/trentino-alto-adige/' data-counter='right'></div></div></div></div><div style='clear:both'></div></div><div style='clear:both'></div><h4 style="text-align: justify;"><strong><span style="color: #000000;"><br />
+SCEGLI LA PROVINCIA</span></strong><br />
+<span style="color: #0275ab;"><span style="text-decoration: underline;"><br />
+<a style="color: #0275ab;" href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento"><strong>Trento</strong></a></span><strong> <span style="color: #808080;">|</span> <a style="color: #0275ab;" href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano"><span style="text-decoration: underline;">Bolzano</span></a></strong></span></h4>
+<p style="text-align: justify;">Selezione dei migliori <strong>Alberghi e Hotel in Trentino Alto Adige</strong> con foto della struttura e delle camere. Descrizione dettagliata di tutti i servizi offerti, i prezzi e le offerte del momento.<br />
+Il Trentino Alto Adige è una regione ricca sia dal punto di vista turistico che culturale. Non mancano numerosi <strong>alberghi in Trentino Alto Adige</strong>, ma anche bed and breakfast, agriturismi e i famosi <strong>Masi</strong>, le abitazioni classiche della zona, adibite a struttura ricettiva.</p>
+<p style="text-align: justify;">Sulla carta geografica l&#8217;aspetto è grosso modo quello di una grande ipsilon formata dalla congiunzione, all&#8217;altezza di <strong><a href="https://alberghi-in-italia.it/trentino-alto-adige/bolzano" target="_blank" rel="nofollow">Bolzano</a></strong>, della <strong>valle dell&#8217;lsarco</strong>, che scende dal <strong>Brennero</strong>, con il corso dell&#8217; <strong>Adige</strong> che dal<strong> passo di Resia</strong> percorre tutta la<strong> valle Venosta</strong> e prosegue verso Trento e <strong><a href="https://alberghi-in-italia.it/veneto/verona" target="_blank" rel="nofollow">Verona</a></strong>. Nei due solchi principali convergono numerose valli: alcune godono di grande rinomanza turistica, come la <strong>val</strong> <strong>Gardena</strong> o la <strong>val Pusteria</strong>; le altre sono luoghi che senza troppo clamore offrono emozioni e paesaggi indimenticabili.</p>
+<p style="text-align: justify;">Il rilievo è costituito dal massiccio bastione delle <strong>Alpi Orientali,</strong> che proprio qui esordiscono mantenendosi sulla media dei 2500 metri, ma frequenti sono le elevazioni che superano i 3000. Dalle Alpi si passa poi alla fascia prealpina e al settore dolomitico con il nucleo più spettacolare di questo celebre comprensorio.</p>
+<p style="text-align: justify;">Abbondante ovunque la <strong>fauna</strong>: dall&#8217;orso alla marmotta, dal capriolo al cervo, dal camoscio allo stambecco, dal gallo cedrone all&#8217;aquila reale. Alcuni hotel del Trentino Alto Adige organizzano visite guidate alla scoperta di questi magnifici animali e del loro habitat naturale.</p>
+<p style="text-align: justify;">Condiviso con la<strong> <a href="https://alberghi-in-italia.it/lombardia" target="_blank" rel="nofollow">Lombardia</a></strong> è il <strong>Parco Nazionale dello Stelvio</strong>, attestato intorno al gruppo deIl&#8217;Ortles-Cevedale, cui si sono aggiunti nel tempo vari parchi regionali a configurare un santuario della natura alpina che si sviluppa con continuità, collegando le principali formazioni del rilievo.</p>
+<p style="text-align: justify;">Il Trentino ha solo due provincie: Bolzano e Trento.  La <strong>chiusa di Salorno</strong> rappresenta il confine fisico fra l&#8217;area trentina, di cultura prevalentemente veneta, e quella bolzanina, dove si parla il tedesco e vengono mantenute vive le strutture sociali e le tradizioni di origine asburgica, donde la distinzione, che ritroviamo nella denominazione amministrativa, di Trentino e Alto Adige.</p>
+<p style="text-align: justify;">La regione ha un&#8217;economia tradizionalmente basata sull&#8217;<strong>agricoltura</strong> e su un<strong> turismo</strong> che almeno nelle stazioni di soggiorno più importanti, come <strong><a href="https://alberghi-in-italia.it/trentino-alto-adige/bolzano/bressanone" target="_blank" rel="nofollow">Bressanone</a> </strong>e Merano, vanta una secolare tradizione. Più recente è invece lo sviluppo dell&#8217;accoglienza rurale, vissuto peraltro come naturale espressione delle potenzialità di un territorio che alterna ai paesaggi dei fondovalle, tappezzati di vigne e meleti, i pascoli in quota, dove tutto ruota intorno all&#8217;allevamento bovino e a una produzione casearia di prim&#8217;ordine.</p>
+<p style="text-align: justify;">In Alto Adige, a dire il vero, l&#8217;<strong>accoglienza rurale</strong> era già una tradizione consolidata prima del boom dell&#8217;agriturismo. L&#8217;attività è cresciuta negli ultimi anni, ma non ha per questo cambiato la sua connotazione e anche se oggi l&#8217;ospitalità viene offerta sempre più spesso in costruzioni recenti, tutta la vita contadina continua a svolgersi intorno ai<strong> masi</strong>, le tipiche costruzioni valligiane, con la base in pietra, adibita a stalla, e le sovrastrutture in legno suddivise tra abitazione e fienile. Intorno è l&#8217;orto, sempre molto fiorito, mentre poco più in là si stendono i campi, che danno patate e cereali adatti al clima, come la segale, utilizzata nella produzione del tipico pane nero. Lo scenario dell&#8217;<strong>agriturismo è dunque genuinamente contadino</strong> anche se oggi si notano i segni di un certo benessere.</p>
+<p style="text-align: justify;"><strong> Trentino Alto Adige in pillole: la geografia</strong></p>
+<p style="text-align: justify;">La parte settentrionale della regione, nella provincia di <strong>Bolzano,</strong> è denominata <strong>Alto Adige</strong>; la parte meridionale, il <strong>Trentino</strong>, prende il nome dal capoluogo <strong>Trento.</strong><span style="color: #666666; font-family: Arial;"> </span></p>
+<p style="text-align: justify;"><strong>Le Alpi:</strong> La regione è chiusa a nord dal massiccio bastione della catena alpina principale, e precisamente dal tratto iniziale delle Alpi Orientali. L’altitudine media è di 2.500 metri ma diverse cime superano i 3.000. Al <strong>passo del Brennero</strong> l’altitudine scende  a 1.375 metri; alla <strong>Sella di Dobbiaco</strong>, che collega la Valle dell’Adige con quella della Drava, l’altitudine scende a 1.170 metri. Questi due valichi, rendono le comunicazioni con l’Austria più agevoli di quelle con la <strong><a href="https://alberghi-in-italia.it/lombardia" target="_blank" rel="nofollow">Lombardia</a></strong>.<br />
+Le vette principali del bastione settentrionale sono la Pala Bianca o Palla Bianca (3.736 metri) nelle <strong>Alpi Venoste</strong>, il <strong>Gran Pilastro</strong> (3.510 metri) nelle Aurine. A occidente si ergono i gruppi dell<strong>’Ortles-Cevedale e dell’Adamello</strong>, ricchi entrambi di ghiacciai. Fra l’Adamello e Trento sorge il gruppo del <strong>Brenta</strong>.<br />
+A oriente il <strong>Trentino Alto Adige</strong> è occupato dalle <strong>Dolomiti</strong>, lunga catena di montagne calcaree dalle forme tozze e poco appuntite. La vetta principale è la <strong>Marmolada</strong> (3.354 metri); altri gruppi notissimi sono il <strong>Catinaccio</strong>, il <strong>Sella</strong> e il <strong>Sassolungo</strong>.</p>
+<p style="text-align: justify;"><strong>Prealpi:</strong> Occupano una piccola parte della regione a est e sud di <strong><a href="https://alberghi-in-italia.it/trentino-alto-adige/trento" target="_blank" rel="nofollow">Trento</a></strong> con i monti della Valsugana e attorno al <strong>Lago di Garda</strong> con il Monte Altissimo.</p>
+<p style="text-align: justify;"><strong>I fiumi e le valli:</strong> Il Trentino Alto Adige è ricco di acque. Il fiume <strong>Adige</strong> (410 km fino alla foce) è il secondo fiume d’Italia per lunghezza e attraversa tutta la regione. Gli unici fiumi importanti che non sono affluenti dell’Adige sono il <strong>Sarca</strong>, che si getta nel <strong>Lago di Garda</strong>, e il Brenta, che nasce dai laghi di Levico e di Caldonazzo, scende nel Veneto e sfocia nell’Adriatico. La regione, cui appartiene l’estremità settentrionale del Lago di Garda, è ricchissima di laghi montani: i più noti sono quelli di Carezza, di Ledro e di Tovel. Numerosi sono anche i bacini artificiali per la produzione di energia idroelettrica.</p>
+<p style="text-align: justify;"><strong>Il clima:</strong> Tipico delle aree montane: inverni molto rigidi ed estati fresche, col consueto fenomeno dell’inversione termica, per cui le temperature del fondovalle, meno esposti al sole, sono inferiori a quelle delle zone più elevate.</p>
+<p>&nbsp;</p>
+<script type="text/javascript" src="https://www.alberghi-in-italia.it/wp-content/plugins/digg-digg//js/diggdigg-linkedin.js?ver=5.3.0"></script>                </div>
 
+                <div class="col-xs-12 col-sm-4 col-md-4 page-sidebar-column">
+                    
+<div class="sidebar page-sidebar">
+    <div id="bcn_widget-4" class="widget-odd widget-first widget-1 widget widget_breadcrumb_navxt"><div class="breadcrumbs" vocab="https://schema.org/" typeof="BreadcrumbList"><!-- Breadcrumb NavXT 6.4.0 -->
+<a title="Alberghi in Italia." href="https://www.alberghi-in-italia.it" class="home">Homepage</a> &gt; <a title="Go to Alberghi e Hotel in Trentino Alto Adige." href="https://www.alberghi-in-italia.it/trentino-alto-adige/" class="post post-page current-item">Alberghi e Hotel in Trentino Alto Adige</a></div></div><div id="text-162" class="widget-even widget-2 frame200 widget widget_text">			<div class="textwidget"><p><iframe src="https://www.booking.com/general.html?aid=334358&#038;tmpl=searchbox&#038;label=example" width="100%" frameborder="0" scrolling="no" name="sbox_iframe" style="border-bottom: 0px double; padding-bottom: 10px;"></iframe></p>
+</div>
+		</div>					  <div id="shailan-subpages-widget-2" class="widget-odd widget-last widget-3 widget shailan-subpages-widget">						<h4 class="widgettitle">Alberghi e Hotel in Trentino Alto Adige</h4>
+					<div id="shailan-subpages-2">
+						<ul class="subpages">
+							<li class="page_item page-item-1050"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/" title="Alberghi Bolzano" rel="">Alberghi Bolzano</a></li>
+<li class="page_item page-item-1052"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/alpe-di-siusi/" title="Alberghi Alpe di Siusi" rel="">Alberghi Alpe di Siusi</a></li>
+<li class="page_item page-item-1055"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/badia/" title="Alberghi in Badia" rel="">Alberghi in Badia</a></li>
+<li class="page_item page-item-1057"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/bolzano-centro/" title="Alberghi Bolzano centro" rel="">Alberghi Bolzano centro</a></li>
+<li class="page_item page-item-1059"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/bressanone/" title="Alberghi Bressanone" rel="">Alberghi Bressanone</a></li>
+<li class="page_item page-item-1062"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/brunico/" title="Alberghi Brunico" rel="">Alberghi Brunico</a></li>
+<li class="page_item page-item-1065"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/campo-tures/" title="Alberghi Campo Tures" rel="">Alberghi Campo Tures</a></li>
+<li class="page_item page-item-1068"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/castelrotto/" title="Alberghi Castelrotto" rel="">Alberghi Castelrotto</a></li>
+<li class="page_item page-item-1070"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/corvara-in-val-badia/" title="Alberghi Corvara in Val Badia" rel="">Alberghi Corvara in Val Badia</a></li>
+<li class="page_item page-item-1073"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/dobbiaco/" title="Alberghi Dobbiaco" rel="">Alberghi Dobbiaco</a></li>
+<li class="page_item page-item-1076"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/dolomiti/" title="Alberghi Dolomiti Bolzano" rel="">Alberghi Dolomiti Bolzano</a></li>
+<li class="page_item page-item-1079"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/fie-allo-sciliar/" title="Alberghi Fiè allo Sciliar" rel="">Alberghi Fiè allo Sciliar</a></li>
+<li class="page_item page-item-1082"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/marebbe/" title="Alberghi Marebbe" rel="">Alberghi Marebbe</a></li>
+<li class="page_item page-item-1086"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/marlengo/" title="Alberghi Marlengo" rel="">Alberghi Marlengo</a></li>
+<li class="page_item page-item-1089"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/merano/" title="Alberghi Merano" rel="">Alberghi Merano</a></li>
+<li class="page_item page-item-1092"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/nova-levante/" title="Alberghi Nova Levante" rel="">Alberghi Nova Levante</a></li>
+<li class="page_item page-item-1095"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/nova-ponente/" title="Alberghi Nova Ponente" rel="">Alberghi Nova Ponente</a></li>
+<li class="page_item page-item-1098"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/ortisei/" title="Alberghi Ortisei" rel="">Alberghi Ortisei</a></li>
+<li class="page_item page-item-1103"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/san-candido/" title="Alberghi San Candido" rel="">Alberghi San Candido</a></li>
+<li class="page_item page-item-1105"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/santa-cristina-in-val-gardena/" title="Alberghi Santa Cristina in Val Gardena" rel="">Alberghi Santa Cristina in Val Gardena</a></li>
+<li class="page_item page-item-1112"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/scena/" title="Alberghi Scena" rel="">Alberghi Scena</a></li>
+<li class="page_item page-item-1108"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/selva-di-val-gardena/" title="Alberghi Selva di Val Gardena" rel="">Alberghi Selva di Val Gardena</a></li>
+<li class="page_item page-item-1116"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/stazione-centrale-bolzano/" title="Stazione Centrale Bolzano" rel="">Stazione Centrale Bolzano</a></li>
+<li class="page_item page-item-1119"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/tirolo/" title="Alberghi Tirolo" rel="">Alberghi Tirolo</a></li>
+<li class="page_item page-item-1121"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/val-gardena/" title="Alberghi in Val Gardena" rel="">Alberghi in Val Gardena</a></li>
+<li class="page_item page-item-1129"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/val-venosta/" title="Alberghi in Val Venosta" rel="">Alberghi in Val Venosta</a></li>
+<li class="page_item page-item-1126"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/valdaora/" title="Alberghi Valdaora" rel="">Alberghi Valdaora</a></li>
+<li class="page_item page-item-1132"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/vipiteno/" title="Alberghi Vipiteno" rel="">Alberghi Vipiteno</a></li>
+<li class="page_item page-item-3275"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/almhof-hotel-call/" title="Almhof Hotel Call" rel="">Almhof Hotel Call</a></li>
+<li class="page_item page-item-3280"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/hotel-stoll/" title="Hotel Stoll" rel="">Hotel Stoll</a></li>
+<li class="page_item page-item-3283"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/hotel-westend/" title="Hotel Westend" rel="">Hotel Westend</a></li>
+<li class="page_item page-item-3287"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/belvita-hotel-adria/" title="Belvita Hotel Adria" rel="">Belvita Hotel Adria</a></li>
+<li class="page_item page-item-3290"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/park-hotel-laurin/" title="Park Hotel Laurin" rel="">Park Hotel Laurin</a></li>
+<li class="page_item page-item-3292"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/stiegl-scala/" title="Stiegl Scala" rel="">Stiegl Scala</a></li>
+<li class="page_item page-item-3297"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/bolzano/hotel-alpi/" title="Hotel Alpi" rel="">Hotel Alpi</a></li>
+<li class="page_item page-item-1135"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/" title="Alberghi Trento" rel="">Alberghi Trento</a></li>
+<li class="page_item page-item-1137"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/canazei/" title="Alberghi Canazei" rel="">Alberghi Canazei</a></li>
+<li class="page_item page-item-1140"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/cavalese/" title="Alberghi Cavalese" rel="">Alberghi Cavalese</a></li>
+<li class="page_item page-item-1142"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/centro-trento/" title="Alberghi Centro Trento" rel="">Alberghi Centro Trento</a></li>
+<li class="page_item page-item-1144"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/dolomiti/" title="Alberghi Dolomiti Trento" rel="">Alberghi Dolomiti Trento</a></li>
+<li class="page_item page-item-1146"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/lago-di-garda/" title="Alberghi Lago di Garda Trento" rel="">Alberghi Lago di Garda Trento</a></li>
+<li class="page_item page-item-1148"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/levico-terme/" title="Alberghi Levico Terme" rel="">Alberghi Levico Terme</a></li>
+<li class="page_item page-item-1150"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/madonna-di-campiglio/" title="Alberghi Madonna di Campiglio" rel="">Alberghi Madonna di Campiglio</a></li>
+<li class="page_item page-item-1154"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/moena/" title="Alberghi Moena" rel="">Alberghi Moena</a></li>
+<li class="page_item page-item-1157"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/molveno/" title="Alberghi Molveno" rel="">Alberghi Molveno</a></li>
+<li class="page_item page-item-1160"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/pinzolo/" title="Alberghi Pinzolo" rel="">Alberghi Pinzolo</a></li>
+<li class="page_item page-item-1163"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/riva-del-garda/" title="Alberghi Riva del Garda" rel="">Alberghi Riva del Garda</a></li>
+<li class="page_item page-item-1166"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/san-martino-di-castrozza/" title="Alberghi San Martino di Castrozza" rel="">Alberghi San Martino di Castrozza</a></li>
+<li class="page_item page-item-1168"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/val-di-fassa/" title="Alberghi in Val di Fassa" rel="">Alberghi in Val di Fassa</a></li>
+<li class="page_item page-item-3395"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/alpen-hotel-sport-wellness/" title="Alpen Hotel Sport &#038; Wellness" rel="">Alpen Hotel Sport & Wellness</a></li>
+<li class="page_item page-item-3399"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/hotel-croce-bianca-leisurespa/" title="Hotel Croce Bianca Leisure&#038;Spa" rel="">Hotel Croce Bianca Leisure&Spa</a></li>
+<li class="page_item page-item-3408"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/hotel-lupo-bianco/" title="Hotel Lupo Bianco" rel="">Hotel Lupo Bianco</a></li>
+<li class="page_item page-item-3412"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/grand-hotel-trento/" title="Grand Hotel Trento" rel="">Grand Hotel Trento</a></li>
+<li class="page_item page-item-3416"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/hotel-buonconsiglio/" title="Hotel Buonconsiglio" rel="">Hotel Buonconsiglio</a></li>
+<li class="page_item page-item-3418"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/relais-vecchio-maso/" title="Relais Vecchio Maso" rel="">Relais Vecchio Maso</a></li>
+<li class="page_item page-item-3421"><a href="https://www.alberghi-in-italia.it/trentino-alto-adige/trento/hotel-america/" title="Hotel America" rel="">Hotel America</a></li>
+						</ul>
+					</div>
+
+					  </div>				</div>
+                </div>
+            </div>
+        </div>
+    </div>
 	<div  class='footer footer-content-lists footer-border-accent'>
     <div  class='footer-content'>
         <div class="gridContainer">
@@ -498,7 +567,7 @@ font-weight: bold
 	</tfoot>
 
 	<tbody>
-	<tr><td>1</td><td>2</td><td id="today">3</td><td>4</td><td>5</td><td>6</td><td>7</td>
+	<tr><td>1</td><td>2</td><td>3</td><td id="today">4</td><td>5</td><td>6</td><td>7</td>
 	</tr>
 	<tr>
 		<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
@@ -555,9 +624,7 @@ P.iva 07028700966</center></p>
 		});
     });
 </script>	<div id="fb-root"></div>
-	<link rel='stylesheet' id='wpforms-full-css'  href='https://www.alberghi-in-italia.it/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css?ver=1.6.0.2' type='text/css' media='all' />
-<script type='text/javascript'  defer="defer" src='https://www.alberghi-in-italia.it/wp-content/plugins/mesmerize-companion/theme-data/mesmerize/assets/js/companion.bundle.min.js?ver=1.6.110'></script>
-<script type='text/javascript'>
+	<script type='text/javascript'>
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"https:\/\/www.alberghi-in-italia.it\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
@@ -567,7 +634,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/www.alberghi-in-italia.it\/wp-json
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-includes/js/backbone.min.js?ver=1.4.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var WP_API_Settings = {"root":"https:\/\/www.alberghi-in-italia.it\/wp-json\/","nonce":"1750f8e951"};
+var WP_API_Settings = {"root":"https:\/\/www.alberghi-in-italia.it\/wp-json\/","nonce":"b5d4097886"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/custom-contact-forms/wp-api/wp-api.js?ver=1.2'></script>
@@ -579,14 +646,6 @@ var WP_API_Settings = {"root":"https:\/\/www.alberghi-in-italia.it\/wp-json\/","
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/super-socializer/js/front/facebook/commenting.js?ver=7.12.41'></script>
 <script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=7.12.41'></script>
 <script type='text/javascript'  defer="defer" src='https://www.alberghi-in-italia.it/wp-includes/js/wp-embed.min.js?ver=5.3.1'></script>
-<script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0'></script>
-<script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2'></script>
-<script type='text/javascript' src='https://www.alberghi-in-italia.it/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.0.2'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpforms_settings = {"val_required":"Questo campo \u00e8 obbligatorio.","val_url":"Inserisci una URL valida.","val_email":"Inserisci un indirizzo email valido.","val_email_suggestion":"Volevi dire {suggerimento}?","val_email_suggestion_title":"Fai clic per accettare il suggerimento.","val_number":"Inserisci un numero valido.","val_confirm":"I valori dei campi non coincidono.","val_fileextension":"Il tipo di file non \u00e8 consentito.","val_filesize":"Il file supera la dimensione massima consentita. Il file non \u00e8 stato caricato.","val_time12h":"Inserisci l'orario nel formato 12-ore AM\/PM (pe 8:45 AM).","val_time24h":"Inserisci l'orario nel formato 24-ore (es: 22:45).","val_requiredpayment":"Il pagamento \u00e8 richiesto.","val_creditcard":"Inserisci un numero valido di carta di credito.","val_post_max_size":"Il peso totale dei file selezionati {totalSize} Mb supera il limite consentito {maxSize} Mb.","val_checklimit":"Hai superato il limite delle selezioni consentite: {#}.","val_limit_characters":"{count} del {limit} massimo di caratteri.","val_limit_words":"{count} di {limit} massimo di parole.","val_recaptcha_fail_msg":"La verifica di Google reCAPTCHA non \u00e8 riuscita, riprova pi\u00f9 tardi.","post_max_size":"134217728","uuid_cookie":"","locale":"it","wpforms_plugin_url":"https:\/\/www.alberghi-in-italia.it\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/www.alberghi-in-italia.it\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"]}
-/* ]]> */
-</script>
 
 		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
 		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">Questo sito web utilizza i cookie
@@ -601,15 +660,15 @@ Utilizziamo i cookie per personalizzare contenuti ed annunci, per fornire funzio
 
 <!-- Cache File Version Salt:       n/a -->
 
-<!-- Cache File URL:                https://www.alberghi-in-italia.it/ -->
-<!-- Cache File Path:               /cache/comet-cache/cache/https/www-alberghi-in-italia-it/index.html -->
+<!-- Cache File URL:                https://www.alberghi-in-italia.it/trentino-alto-adige/ -->
+<!-- Cache File Path:               /cache/comet-cache/cache/https/www-alberghi-in-italia-it/trentino-alto-adige.html -->
 
 <!-- Cache File Generated Via:      HTTP request -->
-<!-- Cache File Generated On:       Jun 3rd, 2020 @ 8:30 pm UTC -->
-<!-- Cache File Generated In:       1.36353 seconds -->
+<!-- Cache File Generated On:       Jun 4th, 2020 @ 8:50 am UTC -->
+<!-- Cache File Generated In:       0.53320 seconds -->
 
-<!-- Cache File Expires On:         Jun 10th, 2020 @ 8:30 pm UTC -->
-<!-- Cache File Auto-Rebuild On:    Jun 10th, 2020 @ 8:30 pm UTC -->
+<!-- Cache File Expires On:         Jun 11th, 2020 @ 8:50 am UTC -->
+<!-- Cache File Auto-Rebuild On:    Jun 11th, 2020 @ 8:50 am UTC -->
 
-<!-- Loaded via Cache On:    Jun 4th, 2020 @ 8:50 am UTC -->
-<!-- Loaded via Cache In:    0.01056 seconds -->
+<!-- Loaded via Cache On:    Jun 4th, 2020 @ 8:53 am UTC -->
+<!-- Loaded via Cache In:    0.00727 seconds -->

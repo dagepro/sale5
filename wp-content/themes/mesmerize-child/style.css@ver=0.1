@@ -1,0 +1,113 @@
+/*
+Theme Name: Mesmerize Child
+Description: Child Theme del tema Mesmerize
+Author: Luca Di Mauro
+Author URI: http://www.lucadimauro.net/
+Template: mesmerize
+Version: 0.1
+*/
+
+@import url("../mesmerize/style.css");
+
+/******* DIN 1451 Std *******/
+@font-face {
+    font-family: 'dinengschriftstd';
+    src: url('fonts/dinengschriftstd-webfont.eot');
+    src: local('?'), url('fonts/dinengschriftstd-webfont.woff') format('woff'), url('fonts/dinengschriftstd-webfont.ttf') format('truetype'), url('fonts/dinengschriftstd.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.din {
+    font-family: 'dinengschriftstd';
+    font-style: normal;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/**********************
+#Strutture
+**********************/
+
+
+.row-struttura {
+    border-bottom: 1px solid #999999;
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    width: 100%;
+    max-width:710px;
+    cursor:pointer;
+}
+
+.row-struttura:hover {
+    opacity:0.9;
+}
+
+.row-struttura img {
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 3px 4px #999999;
+    padding: 2px;
+}
+
+.row-struttura .row-title {
+    color: #005AAA;
+    font-family: 'dinengschriftstd';
+    font-size: 25px;
+    letter-spacing: 0;
+}
+.row-struttura .row-address {
+    color: #289FCA;
+    font-size: 12px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+.row-struttura .row-title .stelle {
+    color: #299FCA;
+    display: inline-block;
+    font-size: 25px;
+    padding-top: 3px;
+}
+.row-struttura .row-content {
+    color: #525260;
+    font-size: 12px;
+    /*height: 80px;*/
+    position: relative;
+    min-height:60px;
+}
+.row-struttura .button-link {
+    background: none repeat scroll 0 0 #4878AA;
+    border-radius: 10px;
+    bottom: 0;
+    color: #FFFFFF;
+    float: right;
+    font-family: 'dinengschriftstd';
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    right: 0;
+}
+.row-struttura .button-link:hover {
+    background: none repeat scroll 0 0 #FF5C26;
+}
+.col-left {
+    float: left;
+    width: 25%;
+}
+.col-right {
+    float: left;
+    width: 75%;
+}
+
+.frame200
+{
+    height: 216px;
+}
